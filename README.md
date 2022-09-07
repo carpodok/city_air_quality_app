@@ -8,8 +8,7 @@
  
  <br>
 
-This project consist of two screen which are ;
-
+#### This project consist of two screens which are ;
 
  <img src="https://user-images.githubusercontent.com/64840495/188944853-93b72df6-294c-4a01-9b6e-1976100b49c3.png" alt="Girl in a jacket" height="700" ><img src="https://user-images.githubusercontent.com/64840495/188944872-53f95db0-b115-46fb-8a6b-ba68e62aa099.png" alt="Girl in a jacket" height="700" >
 
